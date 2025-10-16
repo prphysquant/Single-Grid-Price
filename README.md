@@ -16,7 +16,7 @@ L’interface est **responsive**, s’adaptant aux écrans de téléphone, table
 
 ---
 
-## 🧠 Technologies utilisées
+## Technologies utilisées
 
 - **HTML5** – Structure du contenu
 - **CSS3** – Mise en forme et responsive design
